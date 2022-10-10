@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="zhaozhongying@192.168.139.31:22 password" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="zhaozhongying@192.168.139.31:22 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/public/home/zhaozhongying/code/zqq/ours自监督gat1-5.6--come on" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
